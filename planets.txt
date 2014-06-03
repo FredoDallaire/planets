@@ -7,4 +7,8 @@ Saturne
 Uranus
 Neptune
 Pluton la p'tite pute
+<<<<<<< HEAD
 =======
+=======
++++++++
+>>>>>>> ff4ac7c8aada725d3a0dc6748ce5c1126982ad3e
