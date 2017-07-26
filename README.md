@@ -1,4 +1,0 @@
-planets
-=======
-
-List of planets
